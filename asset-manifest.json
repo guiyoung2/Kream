@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Kream/static/css/main.718a525e.css",
-    "main.js": "/Kream/static/js/main.77b866e0.js",
+    "main.js": "/Kream/static/js/main.ae9c4124.js",
     "static/js/787.68602cd1.chunk.js": "/Kream/static/js/787.68602cd1.chunk.js",
     "static/media/apple-logo.png": "/Kream/static/media/apple-logo.f28dd8ca894c6433f87a.png",
     "static/media/search.png": "/Kream/static/media/search.9cd6528767e685ff9e55.png",
     "index.html": "/Kream/index.html",
     "main.718a525e.css.map": "/Kream/static/css/main.718a525e.css.map",
-    "main.77b866e0.js.map": "/Kream/static/js/main.77b866e0.js.map",
+    "main.ae9c4124.js.map": "/Kream/static/js/main.ae9c4124.js.map",
     "787.68602cd1.chunk.js.map": "/Kream/static/js/787.68602cd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.718a525e.css",
-    "static/js/main.77b866e0.js"
+    "static/js/main.ae9c4124.js"
   ]
 }
